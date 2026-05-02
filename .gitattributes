@@ -1,0 +1,4 @@
+wiki_images/*.jpg filter=lfs diff=lfs merge=lfs -text
+wiki_images/*.jpeg filter=lfs diff=lfs merge=lfs -text
+wiki_images/*.png filter=lfs diff=lfs merge=lfs -text
+wiki_images/*.webp filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,912 @@
+[
+  {
+    "ngc": "5430",
+    "name": "NGC 5430",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5483",
+    "name": "NGC 5483",
+    "status": "ok",
+    "page_title": "NGC 5483",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/NGC_5483_tmp_JHK.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5483.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5485",
+    "name": "NGC 5485",
+    "status": "ok",
+    "page_title": "NGC 5485",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/NGC5485_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5485.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5496",
+    "name": "NGC 5496",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5507",
+    "name": "NGC 5507",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5523",
+    "name": "NGC 5523",
+    "status": "ok",
+    "page_title": "NGC 5523",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/NGC5523_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5523.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5530",
+    "name": "NGC 5530",
+    "status": "ok",
+    "page_title": "NGC 5530",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/NGC_5530_imaged_by_the_Hubble_Space_Telescope.jpg/1920px-NGC_5530_imaged_by_the_Hubble_Space_Telescope.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5530.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5566",
+    "name": "NGC 5566",
+    "status": "ok",
+    "page_title": "NGC 5566",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/N5566s.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5566.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5592",
+    "name": "NGC 5592",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5608",
+    "name": "NGC 5608",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5633",
+    "name": "NGC 5633",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5643",
+    "name": "NGC 5643",
+    "status": "ok",
+    "page_title": "NGC 5643",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NGC_5643.png/1920px-NGC_5643.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5643.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5660",
+    "name": "NGC 5660",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5687",
+    "name": "NGC 5687",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5689",
+    "name": "NGC 5689",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5690",
+    "name": "NGC 5690",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5707",
+    "name": "NGC 5707",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5713",
+    "name": "NGC 5713",
+    "status": "ok",
+    "page_title": "NGC 5713",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/NGC5713_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5713.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5716",
+    "name": "NGC 5716",
+    "status": "ok",
+    "page_title": "NGC 5716",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/NGC_5716_imaged_by_Legacy_Surveys.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5716.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5728",
+    "name": "NGC 5728",
+    "status": "ok",
+    "page_title": "NGC 5728",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/NGC5728_-_HST_-_Potw2139a.jpg/1920px-NGC5728_-_HST_-_Potw2139a.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5728.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5774",
+    "name": "NGC 5774",
+    "status": "ok",
+    "page_title": "NGC 5774",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/NGC_5774_hst_08599_814.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5774.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5775",
+    "name": "NGC 5775",
+    "status": "ok",
+    "page_title": "NGC 5775",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NGC_5775.jpg/1920px-NGC_5775.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5775.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5854",
+    "name": "NGC 5854",
+    "status": "ok",
+    "page_title": "NGC 5854",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/NGC_5854_SDSS2.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5854.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5878",
+    "name": "NGC 5878",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5898",
+    "name": "NGC 5898",
+    "status": "ok",
+    "page_title": "NGC 5898",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/NGC_5898_PanS.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5898.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5899",
+    "name": "NGC 5899",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5903",
+    "name": "NGC 5903",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5907",
+    "name": "NGC 5907",
+    "status": "ok",
+    "page_title": "NGC 5907",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ngc5907_stellar_stream.jpg/1920px-Ngc5907_stellar_stream.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5907.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5915",
+    "name": "NGC 5915",
+    "status": "ok",
+    "page_title": "NGC 5915",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/NGC5915_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5915.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5936",
+    "name": "NGC 5936",
+    "status": "ok",
+    "page_title": "NGC 5936",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/NGC_5936_SDSS2.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5936.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5957",
+    "name": "NGC 5957",
+    "status": "ok",
+    "page_title": "NGC 5957",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/NGC5957_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5957.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5963",
+    "name": "NGC 5963",
+    "status": "ok",
+    "page_title": "NGC 5963",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/NGC5963_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5963.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5964",
+    "name": "NGC 5964",
+    "status": "ok",
+    "page_title": "NGC 5964",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/NGC_5964_hst_09042_R814GB606.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5964.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5967",
+    "name": "NGC 5967",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5968",
+    "name": "NGC 5968",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "5980",
+    "name": "NGC 5980",
+    "status": "ok",
+    "page_title": "NGC 5980",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NGC_5980_SDSS2.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC5980.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "5987",
+    "name": "NGC 5987",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6015",
+    "name": "NGC 6015",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6027",
+    "name": "NGC 6027",
+    "status": "ok",
+    "page_title": "NGC 6027",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ngc_6027.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6027.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6068",
+    "name": "NGC 6068",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6070",
+    "name": "NGC 6070",
+    "status": "ok",
+    "page_title": "NGC 6070",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/NGC_6070_SDSS2.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6070.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6166",
+    "name": "NGC 6166",
+    "status": "ok",
+    "page_title": "NGC 6166",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Monster_Galaxies_Lose_Their_Appetite_With_Age_03.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6166.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6181",
+    "name": "NGC 6181",
+    "status": "ok",
+    "page_title": "NGC 6181",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/NGC_6181_hst_06713_606.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6181.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6217",
+    "name": "NGC 6217",
+    "status": "ok",
+    "page_title": "NGC 6217",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/NGC_6217_hs-2009-25-bc-full.jpg/1920px-NGC_6217_hs-2009-25-bc-full.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6217.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6221",
+    "name": "NGC 6221",
+    "status": "ok",
+    "page_title": "NGC 6221",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NGC_6221_hst_05479_606.png/1920px-NGC_6221_hst_05479_606.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6221.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6368",
+    "name": "NGC 6368",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6395",
+    "name": "NGC 6395",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6438",
+    "name": "NGC 6438",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6482",
+    "name": "NGC 6482",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6509",
+    "name": "NGC 6509",
+    "status": "ok",
+    "page_title": "NGC 6509",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/NGC6509-Final-v2.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6509.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6555",
+    "name": "NGC 6555",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6570",
+    "name": "NGC 6570",
+    "status": "ok",
+    "page_title": "NGC 6570",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/NGC_6570_PanS.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6570.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6674",
+    "name": "NGC 6674",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6689",
+    "name": "NGC 6689",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6703",
+    "name": "NGC 6703",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6753",
+    "name": "NGC 6753",
+    "status": "ok",
+    "page_title": "NGC 6753",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/NGC_6753_by_Hubble_Space_Telescope.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6753.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6769",
+    "name": "NGC 6769",
+    "status": "ok",
+    "page_title": "NGC 6769",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/NGC_6769%2C_NGC_6770.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6769.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6780",
+    "name": "NGC 6780",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6836",
+    "name": "NGC 6836",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6868",
+    "name": "NGC 6868",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6876",
+    "name": "NGC 6876",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6925",
+    "name": "NGC 6925",
+    "status": "ok",
+    "page_title": "NGC 6925",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/NGC_6925_DSS.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6925.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6946",
+    "name": "NGC 6946",
+    "status": "ok",
+    "page_title": "NGC 6946",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Fireworks_Galaxy.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6946.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "6954",
+    "name": "NGC 6954",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "6984",
+    "name": "NGC 6984",
+    "status": "ok",
+    "page_title": "NGC 6984",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Stellar_explosions_in_NGC_6984.jpg/1920px-Stellar_explosions_in_NGC_6984.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC6984.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7015",
+    "name": "NGC 7015",
+    "status": "ok",
+    "page_title": "NGC 7015",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NGC_7015_by_G%C3%B6ran_Nilsson_%26_The_Liverpool_Telescope.jpg/1920px-NGC_7015_by_G%C3%B6ran_Nilsson_%26_The_Liverpool_Telescope.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7015.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7020",
+    "name": "NGC 7020",
+    "status": "ok",
+    "page_title": "NGC 7020",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NGC7020_-_Iotw2224a.jpg/1920px-NGC7020_-_Iotw2224a.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7020.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7070",
+    "name": "NGC 7070",
+    "status": "ok",
+    "page_title": "NGC 7070",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/NGC_7070_legacy_dr10.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7070.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7107",
+    "name": "NGC 7107",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7126",
+    "name": "NGC 7126",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7144",
+    "name": "NGC 7144",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7145",
+    "name": "NGC 7145",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7171",
+    "name": "NGC 7171",
+    "status": "ok",
+    "page_title": "NGC 7171",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NGC_7171_PanS.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7171.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7176",
+    "name": "NGC 7176",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7202",
+    "name": "NGC 7202",
+    "status": "no_image",
+    "page_title": "List of NGC objects (7001–7840)",
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7217",
+    "name": "NGC 7217",
+    "status": "ok",
+    "page_title": "NGC 7217",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/NGC_7217_Hubble.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7217.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7218",
+    "name": "NGC 7218",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7242",
+    "name": "NGC 7242",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7280",
+    "name": "NGC 7280",
+    "status": "ok",
+    "page_title": "NGC 7280",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/NGC7280_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7280.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7300",
+    "name": "NGC 7300",
+    "status": "ok",
+    "page_title": "NGC 7300",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/NGC_7300_legacy_dr10.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7300.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7302",
+    "name": "NGC 7302",
+    "status": "ok",
+    "page_title": "NGC 7302",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/NGC_7302_legacy_dr10.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7302.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7307",
+    "name": "NGC 7307",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7329",
+    "name": "NGC 7329",
+    "status": "ok",
+    "page_title": "NGC 7329",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NGC7329_-_HST_-_Potw2149a.jpg/1920px-NGC7329_-_HST_-_Potw2149a.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7329.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7331",
+    "name": "NGC 7331",
+    "status": "ok",
+    "page_title": "NGC 7331",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NGC_7331_Acquired_with_the_Schulman_Telescope_at_the_Mount_Lemmon_SkyCenter.jpg/1920px-NGC_7331_Acquired_with_the_Schulman_Telescope_at_the_Mount_Lemmon_SkyCenter.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7331.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7377",
+    "name": "NGC 7377",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7392",
+    "name": "NGC 7392",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7416",
+    "name": "NGC 7416",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7448",
+    "name": "NGC 7448",
+    "status": "ok",
+    "page_title": "NGC 7448",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/NGC7448_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7448.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7457",
+    "name": "NGC 7457",
+    "status": "ok",
+    "page_title": "NGC 7457",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/NGC7457_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7457.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7513",
+    "name": "NGC 7513",
+    "status": "ok",
+    "page_title": "NGC 7513",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/NGC7513_-_HST_-_Potw2027a.tif/lossy-page1-960px-NGC7513_-_HST_-_Potw2027a.tif.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7513.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7541",
+    "name": "NGC 7541",
+    "status": "ok",
+    "page_title": "NGC 7541",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bars_and_Baby_Stars_-_potw2004a.jpg/1920px-Bars_and_Baby_Stars_-_potw2004a.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7541.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7552",
+    "name": "NGC 7552",
+    "status": "ok",
+    "page_title": "NGC 7552",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/NGC_7552_HST_31737678125_a8a55d8310_o.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7552.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7582",
+    "name": "NGC 7582",
+    "status": "ok",
+    "page_title": "NGC 7582",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/NGC7582-hst-606.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7582.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7599",
+    "name": "NGC 7599",
+    "status": "ok",
+    "page_title": "NGC 7599",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/NGC_7590_NGC_7599_legacy_dr10.jpg/1920px-NGC_7590_NGC_7599_legacy_dr10.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7599.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7673",
+    "name": "NGC 7673",
+    "status": "ok",
+    "page_title": "NGC 7673",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/NGC_7673.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7673.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7679",
+    "name": "NGC 7679",
+    "status": "ok",
+    "page_title": "NGC 7679",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Arp_216.png/1920px-Arp_216.png",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7679.png",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7741",
+    "name": "NGC 7741",
+    "status": "ok",
+    "page_title": "NGC 7741",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/N7741s.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7741.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7769",
+    "name": "NGC 7769",
+    "status": "ok",
+    "page_title": "NGC 7769",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/NGC7769_-_SDSS_DR14.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7769.jpg",
+    "action": "downloaded"
+  },
+  {
+    "ngc": "7782",
+    "name": "NGC 7782",
+    "status": "no_page",
+    "page_title": null,
+    "image_url": null,
+    "source": null
+  },
+  {
+    "ngc": "7814",
+    "name": "NGC 7814",
+    "status": "ok",
+    "page_title": "NGC 7814",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/N7814s.jpg",
+    "source": "pageimages-thumbnail",
+    "output": "/home/khue/Documents/NGC/wiki_images/NGC7814.jpg",
+    "action": "downloaded"
+  }
+]
