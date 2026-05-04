@@ -171,7 +171,7 @@ def init_state(df):
         "answered": False,
         "last_result": None,
         "revealed": False,
-        "answer": "",
+        "answer_key_id": 0,
         "mistakes": {},
         "corrects": {},
         "attempts_by_object": {},
@@ -193,8 +193,7 @@ def reset_stats():
     st.session_state.last_result = None
     st.session_state.answered = False
     st.session_state.revealed = False
-    st.session_state.answer = ""
-
+    st.session_state.answer_key_id += 1
 
 def next_object(df):
     if len(df) == 0:
@@ -204,7 +203,7 @@ def next_object(df):
     st.session_state.answered = False
     st.session_state.last_result = None
     st.session_state.revealed = False
-    st.session_state.answer = ""
+    st.session_state.answer_key_id += 1
 
 
 def register_answer(name, is_correct, user_answer):
@@ -448,9 +447,11 @@ def main():
             st.write(f"**Type** : {row['type'] if row['type'] else 'non disponible'}")
             st.write(f"**Constellation** : {row['constellation']}")
 
+    answer_key = f"answer_{st.session_state.answer_key_id}"
+
     answer = st.text_input(
         "Nom de l’objet",
-        key="answer",
+        key=answer_key,
         placeholder="Ex : NGC 5775 ou 5775",
     )
 
